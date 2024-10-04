@@ -13,5 +13,4 @@
 2. Run the following command in your terminal:
 
    ```bash
-   ./create_environment.sh
-~                              
+   ./create_environment.sh                
